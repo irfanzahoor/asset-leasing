@@ -90,5 +90,4 @@ The tests build their own company and masters and roll everything back.
   on install and migrate, never shipped as a Custom DocPerm fixture
 
 ## Licence
-
 MIT# asset-leasing
